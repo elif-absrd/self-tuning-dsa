@@ -1,5 +1,3 @@
-# Virtual Environment
 venv/
-.venv/
-env/
-ENV/
+src/core/__pycache__/
+src/utils/__pycache__/

@@ -1,6 +1,9 @@
 # 🧠 Self-Tuning Data Structure
 
-A learning-focused project that demonstrates how data structures can automatically adapt to workload patterns in real-time.
+This project demonstrates how data structures can automatically adapt to workload patterns in real-time.
+I am still working on this and a lot of things are remaining. for now a basic working of bst and avl and hash map has been completed.
+
+
 
 ## 🎯 What This Does
 
@@ -28,8 +31,9 @@ UI Layer (Streamlit)
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies
+(after activating you venv)
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 ### 2. Run the Application
